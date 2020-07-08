@@ -1,0 +1,21 @@
+{
+  "name": "material-colors-light",
+  "homepage": "https://github.com/jagamypriera/material-colors-light",
+  "version": "1.0.1",
+  "description": "List of Material Colors from Google",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "colors",
+    "palette",
+    "design"
+  ],
+  "author": "Jaga My Priera",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jagamypriera/material-colors-light.git"
+  }
+}
